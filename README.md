@@ -2,13 +2,6 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <style>
-        body { font-family: Arial, sans-serif; line-height: 1.6; margin: 40px; }
-        h1, h2 { color: #333; }
-        pre { background: #f4f4f4; padding: 10px; border-radius: 5px; overflow-x: auto; }
-        code { font-family: Consolas, monospace; color: #d63384; }
-        ul { list-style-type: square; }
-    </style>
 </head>
 <body>
     <h1>Echo Server (Node.js + EJS)</h1>
