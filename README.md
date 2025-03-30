@@ -1,13 +1,13 @@
-   <h1>Echo Server (Node.js + EJS)</h1>
+<h1>Echo Server (Node.js + EJS)</h1>
     <p>This project is a part of task given by Kharagpur Open Source Society.  </p>
     
-    <h2>🚀 Features</h2>
+<h2>🚀 Features</h2>
     <ul>
         <li>✅ <strong>Unique session URL for each user</strong></li>
         <li>✅ <strong>Works without WebSockets</strong> (only Express, HTTP, and Node.js)</li>
         <li>✅ <strong>Lightweight and efficient</strong></li>
     </ul>
-    <h2>🛠️ Tech Stack</h2>
+<h2>🛠️ Tech Stack</h2>
 <ul>
     <li><strong>Node.js</strong> (Backend)</li>
     <li><strong>Express.js</strong> (Routing & Server)</li>
@@ -28,9 +28,9 @@
 
 <h2>🔒 Future Improvements</h2>
 <ul>
-    <li>🔹 Import websockets features  to give chating experience with server.</li>
-    <li>🔹 Improving UI/UX for a better user experience.</li>
-    <li>🔹 Adding optional authentication for session tracking.</li>
-    <li>🔹 Adding cookies to enhance functionality</li>
+    <li>  Import websockets features  to give chating experience with server.</li>
+    <li>  Improving UI/UX for a better user experience.</li>
+    <li>  Adding optional authentication for session tracking.</li>
+    <li>  Adding cookies to enhance functionality</li>
   
 </ul
